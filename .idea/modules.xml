@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MeshSDK_Android.iml" filepath="$PROJECT_DIR$/MeshSDK_Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MeshSdkDemoPublic.iml" filepath="$PROJECT_DIR$/MeshSdkDemoPublic.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
